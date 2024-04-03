@@ -1,1 +1,3 @@
-#hoping this shows up on profile page
+# Hello! This is the Organization for Ampere Computing Silicon Engineering
+
+Please request member access as necessary
